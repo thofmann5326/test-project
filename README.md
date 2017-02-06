@@ -1,18 +1,26 @@
+# Basic instructions
+## Github instructions
+```
+git init(do only first time)
+git add . (puts everything in current directory into git repo)
+git commit -am "say something about commit here"
+git remote add origin git@github.com:thofmann5326/test-project.git
+    (do above only first time and different for each repo)
+git push -u origin master
+```
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+## Git Ignore
+1. Make a new file called ".gitignore"
+2. Add the file names to that file to ignore them
 
+## Open terminal
+```
+alt-t or
+Window, New Terminal
+```
 
-Hi there! Welcome to Cloud9 IDE!
+## Readme cheat sheet
+(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
+## Git cheatsheet
+(https://www.git-tower.com/blog/content/posts/54-git-cheat-sheet/git-cheat-sheet-large01.png)
